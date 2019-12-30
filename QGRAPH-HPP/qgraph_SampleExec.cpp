@@ -21,7 +21,7 @@
  * 
  *
  * MEMBERS OF Hypercube (19): 
- *   (00) qnum dimension                            // member dicating Hypercube's dimension
+ *   (00) qnum dimension                            // member dictating Hypercube's dimension
  *   (01) qnum total_points()                       // returns total points in 'dimension'
  * 
  *   (02) Hypercube()                               // defaults 'dimension = 0'
