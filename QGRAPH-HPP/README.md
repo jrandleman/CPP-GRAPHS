@@ -23,7 +23,6 @@
 ----------------------
 
 ## 19 Members of the `qgraph::Hypercube` Struct:
-* ***NOTE:** Further manipulates fcns returned by `SOP_str` & `POS_str`!*
 1) `qnum` `dimension` => _Member dicating Hypercube's dimension_
 2) `qnum` `total_points`() => _Returns total points in 'dimension'_
 ------
